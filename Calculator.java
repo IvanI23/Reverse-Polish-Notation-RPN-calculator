@@ -116,8 +116,6 @@ public class Calculator {
         textField.setForeground(Color.white);
         frame.add(textField);
 
-        
-
         String[] buttonLabels = 
         {    "1", "2", "3", "+",
             "4", "5", "6", "-",
